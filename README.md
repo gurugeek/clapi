@@ -122,4 +122,5 @@ I haven't tried this myself but it seems very possible, you need to have this `f
 
 `flyctl open` will open a browser on the HTTP version of the site.
 
+.
 
